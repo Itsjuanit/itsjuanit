@@ -50,6 +50,10 @@
 
 </p>
 
+  ![Hemant Joshi Github Stats](https://github-readme-stats.vercel.app/api?username=itsjuanit&show_icons=true&title_color=fff&icon_color=fafafa&text_color=fafafa&bg_color=444&align=center)
+
+
+
 ### - Blog 🌱
 
 <p align="center">
