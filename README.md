@@ -62,7 +62,7 @@
 
 ### - Portfolio ⚡️
 <p align="center">
-  <a href="https://portfolio-itsjuanit.now.sh/" target="_blank">💻PORTFOLIO💻</a>
+  <a href="https://portfolio-itsjuanit.now.sh/" target="_blank"><h2>💻PORTFOLIO💻</h2></a>
 </p>
 
 
