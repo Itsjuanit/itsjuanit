@@ -6,7 +6,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 -  **Working :** Web Development- Front End Dev
--  **Learning :** React.js, REDUX and Next.js:zap:
+-  **Learning :** ⚛️React.js, REDUX and Next.js:zap:
 -  **Hobbies :** Play videogames 💻 | Music :headphones:
 -  **Ask me about :** Anything!, I'm happy to help :v:
 -  **Pronouns :** He/Him/
