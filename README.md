@@ -6,7 +6,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 -  **Working :** Web Development- Front End Dev
--  **Learning :** Vue.js, React, Firebase :zap:
+-  **Learning :** Vue.js, React :zap:
 -  **Hobbies :** Play videogames 💻 | Music :headphones:
 -  **Ask me about :** Anything!, I'm happy to help :v:
 -  **Pronouns :** He/Him/
