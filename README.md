@@ -12,8 +12,7 @@
 -  **Pronouns :** He/Him/
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![github stats](https://github-readme-stats.vercel.app/api?username=itsjuanit&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?itsjuanit=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=itsjuanit.itsjuanit) 
 
