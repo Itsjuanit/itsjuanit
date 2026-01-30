@@ -1,61 +1,55 @@
 <div align="center">
-Hey there! I'm Juan Ignacio Tejada 👋
-Frontend Developer from Argentina 🇦🇷
-Mostrar imagen
-Mostrar imagen
+  
+# Hi 👋, I'm Juan Ignacio Tejada
+
+### A passionate frontend developer from Argentina 🇦🇷
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=itsjuanit&label=Profile%20views&color=6366F1&style=flat)](https://github.com/itsjuanit)
+[![Twitter Follow](https://img.shields.io/twitter/follow/itsjuanit?logo=twitter&style=flat&color=1DA1F2)](https://twitter.com/itsjuanit)
+
 </div>
 
-👨‍💻 About Me
-I'm a passionate frontend developer focused on building clean, efficient, and user-friendly web applications. Currently working on CRM systems for the automotive industry.
+---
 
-🔭 Working with React, Vue.js, and TypeScript daily
-🚀 Building scalable applications with GraphQL
-📍 Based in San Juan, Argentina
-⛰️ When not coding: playing padel 🎾 or trekking in the Andes
+- 🔭 I'm currently working on **...**
+- 🌱 I'm currently learning **TypeScript**
 
+---
 
-🛠️ Tech Stack
-<div align="center">
-Frontend
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Styling
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Tools & Others
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-</div>
+### 🔗 Connect with me
 
-📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsjuanit&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjuanit&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsjuanit&theme=tokyonight" alt="itsjuanit" />
-</div>
+<p align="left">
+  <a href="https://twitter.com/itsjuanit" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/tu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-🤝 Let's Connect
-<div align="center">
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-</div>
+---
 
-<div align="center">
-"Clean code always looks like it was written by someone who cares."
-</div>>
+### 🛠️ Languages and Tools
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,js,ts,nextjs,html,css&theme=dark" />
+  </a>
+</p>
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,firebase,git,azure,webpack,babel&theme=dark" />
+  </a>
+</p>
 
+---
 
+### 📊 GitHub Stats
 
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsjuanit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjuanit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="170" />
+</p>
